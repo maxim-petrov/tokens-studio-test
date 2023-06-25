@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/punishment-worry-z56kc.figma-tokens-ljbi3djf",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve ilyn3YXBgzh9V4wVbJSi --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
